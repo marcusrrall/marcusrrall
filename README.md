@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcus Rogério  
 
-**`(Developer Full Stack)`**
+**`(Developer)`**
 
 💻 **Desenvolvedor de Software** com experiência em **aplicações mobile e web**.  
  Apaixonado por criar **aplicativos móveis escaláveis e funcionais**, do backend ao frontend.  
