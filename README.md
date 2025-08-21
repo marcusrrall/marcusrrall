@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcus Rogério  
 
-**`(Developer/Mobile Design/Creator)`**
+**`(Developer Full Stack)`**
 
 💻 **Desenvolvedor de Software** com experiência em **aplicações mobile e web**.  
  Apaixonado por criar **aplicativos móveis escaláveis e funcionais**, do backend ao frontend.  
@@ -8,7 +8,7 @@
 
 Interesse em **arquitetura de software, boas práticas de código, integração de sistemas e performance**.  
 
----
+
 
 ### 🧰 Tecnologias e Linguagens
 
@@ -33,7 +33,6 @@ Interesse em **arquitetura de software, boas práticas de código, integração 
 ---
 
 ### 📍Estatísticas 
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusrrall&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
