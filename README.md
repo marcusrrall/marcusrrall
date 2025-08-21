@@ -34,5 +34,5 @@ Interesse em **arquitetura de software, boas práticas de código, integração 
 
 ### 📍Estatísticas 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&custom_title=Tecnologias)](https://github.com/marcusrrall/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusrrall&theme=tokyonight&custom_title=Tecnologias)](https://github.com/marcusrrall/github-readme-stats)
 
