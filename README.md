@@ -2,14 +2,14 @@
 
 **`(Developer) 🚀`**
 
-## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
+## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> 
 
 
 ```TypeScript
 const [developer, setDeveloper] = useState<Developer>({
    name: 'Marcus Almeida',
    interest: 'Mobile Developer',
-   random: [ 'TDD', 'Clean Architecture Enthusiast', 'UI/UX', 'Figma' ],   
+   random: [ 'Clean Architecture Enthusiast', 'UI/UX', 'TDD', 'Figma' ],   
    technologies: {
 	backEnd: [ 'Nest.js', 'Laravel' ],
 frontEnd: [ 'Next.js', 'ReactJs', 'React Native', 'VueJs', 'Bootstrap', 'Tailwind CSS' ],
