@@ -1,10 +1,27 @@
-# 👋 Olá, eu sou o Marcus Almeida
+# 👋 Marcus Almeida
 
-**`(Developer)`**
+**`(Developer) 🚀`**
 
-💻 **Desenvolvedor de Software** com experiência em **aplicações mobile e web**.  
+## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
+
+
+```TypeScript
+const [developer, setDeveloper] = useState<Developer>({
+   name: 'Marcus Almeida',
+   interest: 'Mobile Developer',
+   random: [ 'TDD', 'Clean Architecture Enthusiast', 'UI/UX', 'Figma' ],   
+   technologies: {
+	backEnd: [ 'Nest.js', 'Laravel' ],
+frontEnd: [ 'Next.js', 'ReactJs', 'React Native', 'VueJs', 'Bootstrap', 'Tailwind CSS' ],
+   },
+   languages: [ 'TypeScript', 'PHP', 'Javascript' ] ,
+   databases: ['PostgreSQL', 'MongoDB', 'MySQL'],
+});
+```
+
+ **Desenvolvedor de Software** com experiência em **aplicações mobile e web**.  
  Apaixonado por criar **aplicativos móveis escaláveis e funcionais**, do backend ao frontend.  
-🚀 Trabalho principalmente com **React Native, ReactJS, PHP/Laravel, NestJS e Next.js**.  
+ Trabalho principalmente com **React Native, ReactJS, PHP/Laravel, NestJS e Next.js**.  
 
 Interesse em **arquitetura de software, boas práticas de código, integração de sistemas e performance**.  
 
